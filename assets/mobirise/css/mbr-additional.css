@@ -2851,16 +2851,6 @@ section.lazy-placeholder:after {
 .cid-s5IT2xLqcA .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-s5IT2ygPHO {
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
-}
-.cid-s5IT2ygPHO H1 {
-  color: #ff3366;
-}
-.cid-s5IT2ygPHO .mbr-text,
-.cid-s5IT2ygPHO .mbr-section-btn {
-  color: #ff3366;
-}
 .cid-s5IT2zjQec {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -2873,6 +2863,49 @@ section.lazy-placeholder:after {
 }
 .cid-s5JMw8pCfZ P {
   color: #767676;
+}
+.cid-s5Od6aLHYz {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-s5Od6aLHYz .card-img {
+  background-color: #fff;
+}
+.cid-s5Od6aLHYz .card {
+  align-self: stretch;
+}
+.cid-s5Od6aLHYz .card-box {
+  padding: 2rem;
+  background-color: #ffffff;
+}
+.cid-s5Od6aLHYz h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-s5Od6aLHYz p {
+  text-align: left;
+}
+.cid-s5Od6aLHYz .mbr-text {
+  color: #767676;
+}
+.cid-s5Od6aLHYz .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-s5Od6aLHYz .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-s5Od6aLHYz .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
 }
 .cid-s5JBM0SQ94 .navbar {
   padding: .5rem 0;
