@@ -3364,6 +3364,11 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-s5ONLRWkfA {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
 .cid-s5OstSjbfC {
   padding-top: 90px;
   padding-bottom: 90px;
